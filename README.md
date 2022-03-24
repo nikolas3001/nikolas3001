@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikolas3001
+- 👀 I’m interested in learning arduino and c
+- 🌱 I’m currently learning: c
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me nikolas3001#5398 (discord)
